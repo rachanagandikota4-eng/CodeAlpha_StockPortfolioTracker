@@ -1,2 +1,2 @@
-# CodeAlpha_Stock Portfolio Tracker
-CodeAlpha Internship -- StockPortfolioTracker
+# Stock Portfolio Tracker
+ StockPortfolioTracker
